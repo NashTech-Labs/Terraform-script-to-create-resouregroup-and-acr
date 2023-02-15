@@ -1,4 +1,6 @@
-# This template helps you to create acr and resource group using terrafrom
+#Description
+
+This template helps you to create acr and resource group using terraform
 
 
 # Prerequisites:
