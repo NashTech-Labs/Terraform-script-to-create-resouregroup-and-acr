@@ -15,6 +15,6 @@
 * `terraform plan` 
 * `terraform apply`
 
-As you can see in the below image Created resource group and the acr.
+As you can see in the below image  it is created resource group and the acr.
 
 ![azure-acr.png](photos/azure-acr.png)
